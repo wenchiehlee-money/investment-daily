@@ -1,6 +1,7 @@
 # Daily Investment Summary — YYYY-MM-DD
 
-> Timezone: Asia/Taipei
+> 時區：Asia/Taipei  
+> 產生模型：{{ACTUAL_MODEL_NAME}}
 
 ## 1. 今日市場重點
 
